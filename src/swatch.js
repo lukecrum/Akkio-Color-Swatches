@@ -1,8 +1,6 @@
 import React, { Component } from 'react';
 
 class Swatch extends Component {
-
-
     getTextColor(r, g, b) { // so text is always visible
         let brightness = (r * 299 + g * 587 + b * 114) / 1000;
         return brightness > 125 ? 'black' : 'white';
