@@ -1,3 +1,6 @@
+![readme](src/readme.png)
+
+
 # Installation / Run
 - Install `npm` (Node Package Manager) per your operating system's instructions [here](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm#using-a-node-installer-to-install-nodejs-and-npm)
 - `cd` into this repository's root directory
